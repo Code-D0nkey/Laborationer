@@ -1,1 +1,1 @@
-
+print("Kuo är göllig")
